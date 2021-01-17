@@ -1,0 +1,79 @@
+body{
+    background-color: blueviolet;
+}
+
+#form{
+    height: 200px;
+    width: 30%;
+    background-color: white;
+    position: absolute;
+    left: 30%;
+    border: 10px solid black;
+    padding: 30px 20px 10px 10px
+}
+
+label{
+    font-family: 'Franklin Gothic Medium';  
+    position: absolute;
+    left: 5%;
+}
+
+input{
+    position: absolute;
+    left: 20%;
+}
+
+#photo{
+    position: absolute;
+    left:30%;
+    margin-top: 3%;
+}
+
+#file-label{
+    position:absolute;
+    left: 5%;
+    margin-top: 3%;
+}
+
+button{
+    position: absolute;
+    bottom: 10%;
+    left: 6%;
+    height:50px;
+    width: 300px;
+}
+
+ul{
+    position: absolute;
+    top: 50%;
+}
+
+#ul1{
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    border: 10px solid black;
+    height: 200px;
+    width: 200px;
+}
+
+#ul2{
+    position: absolute;
+    top: 50%;
+    left: 35%;
+    border: 10px solid black;
+    height: 200px;
+    width: 200px;
+}
+
+#ul3{
+    position: absolute;
+    top: 50%;
+    left: 35%;
+    border: 10px solid black;
+    height: 200px;
+    width: 200px;
+}
+
+
+
